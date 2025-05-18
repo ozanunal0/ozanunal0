@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 <!--
 **ozanunal0/ozanunal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
