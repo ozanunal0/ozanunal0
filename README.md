@@ -111,7 +111,7 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-**ozanunal0/ozanunal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ozanunal0/ozanunal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 
 Here are some ideas to get you started:
 
