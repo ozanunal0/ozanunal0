@@ -12,6 +12,7 @@
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ozan.unal)](https://medium.com/@ozan.unal)
 [![Gmail Badge](https://img.shields.io/badge/-ozanunal@protonmail.com-c14438?style=social&logo=protonmail&logoColor=&link=mailto:ozanunal@protonmail.com)](mailto:ozanunal@protonmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=social&logo=Telegram&logoColor=&link=https://t.me/@RTFM2)](https://t.me/@RTFM2)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ozanunal0.README.md)
 
 
 
